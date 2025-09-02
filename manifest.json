@@ -1,0 +1,10 @@
+{
+    "id": "centerImage",
+    "name": "Center Image",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Automatically centers images and adds border radius unless specific codes are added to images paths",
+    "author": "QahNaxy",
+    "authorUrl": "https.qahnaxy.github.io",
+    "isDesktopOnly": false
+}
