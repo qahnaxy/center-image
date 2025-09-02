@@ -6,5 +6,6 @@
     "description": "Automatically centers images and adds border radius unless specific codes are added to images paths",
     "author": "QahNaxy",
     "authorUrl": "https.qahnaxy.github.io",
-    "isDesktopOnly": false
+    "isDesktopOnly": false,
+    "repo": "https://github.com/qahnaxy/centerImage/"
 }
