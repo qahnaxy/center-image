@@ -4,19 +4,19 @@ Center Image is a minimalist yet effective plugin for Obsidian that programmatic
 
 ## Installation & Configuration
 
--**Install** the plugin via Obsidian's Community Plugins browser.
+- **Install** the plugin via Obsidian's Community Plugins browser.
 
--**Enable** the plugin within your settings.
+- **Enable** the plugin within your settings.
 
--No further configuration is required. The plugin is immediately active upon activation.
+- No further configuration is required. The plugin is immediately active upon activation.
 
 ## Planned Feature Roadmap
 
--**Configurable Alignment**: Granular control over image alignment (e.g., left, center, right) on a per-image or global basis.
+- **Configurable Alignment**: Granular control over image alignment (e.g., left, center, right) on a per-image or global basis.
 
--**Customizable Styling**: A settings panel to user-define the border-radius value (in pixels or percent) and potentially other CSS properties.
+- **Customizable Styling**: A settings panel to user-define the border-radius value (in pixels or percent) and potentially other CSS properties.
 
--**Plugin Interoperability**: Official compatibility and styling support for the popular Image Captions plugin.
+- **Plugin Interoperability**: Official compatibility and styling support for the popular Image Captions plugin.
 
 ## Future Development Note
 
