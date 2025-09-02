@@ -1,6 +1,6 @@
 ## Center Image
 
-[Center Image]() is a minimalist yet effective plugin for [Obsidian]() that programmatically centers image elements within both the Editor and Live Preview modes. It applies a clean, standardized CSS border-radius for a modern, polished aesthetic.
+[Center Image](https://github.com/qahnaxy/centerImage/) is a minimalist yet effective plugin for [Obsidian](https://obsidian.md/) that programmatically centers image elements within both the Editor and Live Preview modes. It applies a clean, standardized CSS border-radius for a modern, polished aesthetic.
 
 ## Installation & Configuration
 
